@@ -1,4 +1,1 @@
-sudo -i
-sudo apt update
-ami
-lsblk
+
